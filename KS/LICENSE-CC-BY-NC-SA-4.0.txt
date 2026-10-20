@@ -1,0 +1,11 @@
+License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+The adapted dataset in this directory is licensed under CC BY-NC-SA 4.0, subject to the terms of the original dataset's license.
+
+Original dataset: [Insert original dataset name and URL]
+
+Original creator/source: [Insert attribution]
+
+Modifications: The dataset has been adapted by [your name or organization]. Modifications include [briefly describe changes].
+
+The original dataset remains subject to its original license. This notice does not change the license of any third-party material.
